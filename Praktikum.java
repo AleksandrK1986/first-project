@@ -1,6 +1,6 @@
 mport java.util.ArrayList;
 public class Praktikum {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //Просто комментарий
         ArrayList<String> animals = new ArrayList<>();
         animals.add("Шиншилла");
         animals.add("Крокодил");
